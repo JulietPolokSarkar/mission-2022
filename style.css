@@ -35,6 +35,10 @@
     margin-top: 8%;
 }
 
+.margin2{
+    margin-left: 10%;
+}
+
 .top-paragraph{
     padding-right: 75px;
     font-size: 25px;
@@ -47,8 +51,10 @@
     background-color: rgb(243, 81, 81);
     color: white;
     padding: 10px 40px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-weight: bolder;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 section{
@@ -111,3 +117,59 @@ section{
 h2{
     font-family: 'Mulish', sans-serif;
 }
+
+.color-black{
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.width2{
+    width: 30%;
+}
+
+.width2 img{
+    width: 100%;
+    padding-top: 35px;
+}
+
+.width3{
+    width: 60%;
+}
+
+.margin3{
+    margin-top: 6%;
+    margin-left: 5%;
+}
+
+.paragraph2{
+    margin-right: 18%;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.margin4{
+    margin-right: 65%;
+}
+
+.documentation-button{
+    text-decoration: none;
+    background-color: rgb(243, 81, 81);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.development-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position-y: center;
+    background-position-x: 50px;
+
+}
+
