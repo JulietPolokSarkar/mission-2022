@@ -173,3 +173,25 @@ h2{
 
 }
 
+.margin5{
+    margin-top: 6%;
+    margin-left: 10%;
+}
+
+.margin6{
+    margin-right: 55%;
+}
+
+.margin7{
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.community-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 12%;
+    background-position-y: 300px;
+    background-position-x: 1170px;
+}
