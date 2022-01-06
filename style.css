@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 
 .color-orange{
     color: orange;
@@ -238,4 +241,31 @@ h2{
     background-size: 5%;
     background-position-y: 335px;
     background-position-x: 470px;
+}
+
+.color-red{
+    color: rgb(250, 83, 83);
+}
+
+footer{
+    background-color: black;
+    border:solid;
+    height:20vh;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer h1{
+    text-align: center;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-weight: 700;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
