@@ -269,3 +269,50 @@ footer p{
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  input[type=email], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical; 
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  input[type=submit] {
+    background-color: rgb(245, 106, 90);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+
+  .container {
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    border: black solid;
+    border-width: 2px;
+    background-color: rgb(252, 238, 242);
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
