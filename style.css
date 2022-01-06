@@ -1,3 +1,53 @@
+
 .color-orange{
     color: orange;
 }
+
+.stay-focused{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+    border-width: 3px;
+    padding-left: 10px;
+}
+
+.focused-font{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 40px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+
+.half-width img{
+    width: 70%;
+    padding-left: 50px;
+}
+
+.flexible-container{
+    display: flex;
+}
+
+.top-margin{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.top-paragraph{
+    padding-right: 75px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+.explore-button{
+    text-decoration: none;
+    background-color: rgb(243, 81, 81);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
